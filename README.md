@@ -1,4 +1,4 @@
-<h1 align="center"> Grade Sorter — 8086 Assembly Language (CLI Based)</h1>
+<h1 align="center"> Grade Sorter | 8086 | Assembly Language</h1>
 
 <p align="center">
   <img width="285" height="197" alt="image" src="https://github.com/user-attachments/assets/9c94c02d-fa8e-403d-95ac-d0300711b16a" />
